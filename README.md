@@ -1,0 +1,1 @@
+# An exploration into algorithmic trading while I wait for job offers and opportunities 

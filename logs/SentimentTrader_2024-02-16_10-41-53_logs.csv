@@ -1,0 +1,5 @@
+2024-02-16 10:41:53,972: root: INFO: SentimentTrader : Executing the initialize lifecycle method
+2024-02-16 10:41:53,974: root: INFO: Backtesting finished
+2024-02-16 10:41:53,975: root: WARNING: Cannot plot returns because the strategy returns are missing
+2024-02-16 10:41:54,020: root: WARNING: Cannot create a tearsheet because the strategy returns are missing
+2024-02-16 10:41:54,020: backtest_stats: INFO: Backtest took 0:00:00.048367 for a speed of 0.000
